@@ -1,0 +1,9 @@
+D:\Projects\Stashify\netstandard2.0\Stashify.deps.json
+D:\Projects\Stashify\netstandard2.0\Stashify.dll
+D:\Projects\Stashify\netstandard2.0\Stashify.pdb
+D:\Projects\Stashify\Stashify\obj\Debug\netstandard2.0\Stashify.csprojAssemblyReference.cache
+D:\Projects\Stashify\Stashify\obj\Debug\netstandard2.0\Stashify.csproj.CoreCompileInputs.cache
+D:\Projects\Stashify\Stashify\obj\Debug\netstandard2.0\Stashify.AssemblyInfoInputs.cache
+D:\Projects\Stashify\Stashify\obj\Debug\netstandard2.0\Stashify.AssemblyInfo.cs
+D:\Projects\Stashify\Stashify\obj\Debug\netstandard2.0\Stashify.dll
+D:\Projects\Stashify\Stashify\obj\Debug\netstandard2.0\Stashify.pdb
